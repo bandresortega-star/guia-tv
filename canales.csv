@@ -1,0 +1,123 @@
+n,nombre,tvg_id,con_guia
+1,AE HD,AELatinAmerica.us,si
+2,ALERTA BOGOTA,sg-alerta-bogota,no
+3,AMC HD,AMCLatinAmerica.us,si
+4,AXN HD,AXNLatinAmerica.us,si
+5,Adult Swim,sg-adult-swim,no
+6,America TV HD,sg-america-tv-hd,no
+7,Animal Planet,AnimalPlanetLatinAmerica.us,si
+8,BETHEL TV,BethelTV.pe,si
+9,Baby TV,sg-baby-tv,no
+10,CARACOL HD 2,sg-caracol-hd-2,no
+11,CARACOL TV HD,CaracolTV.co,si
+12,CNN Espaæol,CNNenEspanol.us,si
+13,CRISTO VISION,Cristovision.co,si
+14,Canal Caracol,CaracolTV.co,si
+15,Canal Institucional,CanalInstitucional.co,si
+16,Canal RCN,CanalRCN.co,si
+17,Canal Uno,Canal1.co,si
+18,Canal del Congreso,CanalCongreso.co,si
+19,Capital,CanalCapital.co,si
+20,Cartoon Network HD,CartoonNetworkLatinAmerica.us,si
+21,Cinecanal HD,Cinecanal.us,si
+22,Cinemax,CinemaxLatinAmerica.us,si
+23,City TV,CitytvBogota.co,si
+24,Comedy Central HD,ComedyCentralLatinAmerica.us,si
+25,DW Espaæol,sg-dw-espaol,no
+26,De Pelicula,DePeliculaLatinAmerica.mx,si
+27,De Pelicula,DePeliculaLatinAmerica.mx,si
+28,Discovery Channel HD,DiscoveryChannelLatinAmerica.us,si
+29,Discovery H&H,sg-discovery-h-h,no
+30,Discovery Kids HD,DiscoveryKidsLatinAmerica.us,si
+31,Discovery Science,DiscoveryScienceLatinAmerica.us,si
+32,Discovery Turbo,DiscoveryTurboLatinAmerica.us,si
+33,Disney Channel,DisneyChannelLatinAmerica.ar,si
+34,Disney Jr.,DisneyJrLatinAmerica.ar,si
+35,Distrito Comedia,DistritoComedia.mx,si
+36,E! Entertainment TV,ELatinAmerica.us,si
+37,ESPN 2 HD,ESPN2LatinAmerica.us,si
+38,ESPN 3 HD,ESPN3LatinAmerica.us,si
+39,ESPN 4 HD,ESPN4LatinAmerica.us,si
+40,ESPN 5 HD,sg-espn-5-hd,no
+41,ESPN 6 HD,sg-espn-6-hd,no
+42,ESPN 7 HD,sg-espn-7-hd,no
+43,ESPN HD,ESPNLatinAmerica.us,si
+44,ESPN Premium HD,ESPNPremium.ar,si
+45,ETC,ETCTV.cl,si
+46,EWTN,sg-ewtn,no
+47,El Gourmet HD,ElGourmet.ar,si
+48,Enlace,Enlace.cr,si
+49,FMH ANIMOTION,sg-fmh-animotion,no
+50,FMH ATLAS,sg-fmh-atlas,no
+51,FMH FAMILY,sg-fmh-family,no
+52,FMH KIDS,sg-fmh-kids,no
+53,FMH KIZZT,sg-fmh-kizzt,no
+54,FMH MOVIES,sg-fmh-movies,no
+55,FMH REWIND,sg-fmh-rewind,no
+56,FULL SYSTEM TV,sg-full-system-tv,no
+57,FX HD,FX.mx,si
+58,Food Network,FoodNetworkLatinAmerica.us,si
+59,France 24,sg-france-24,no
+60,Golden Edge,GoldenEdge.mx,si
+61,Golden HD,Golden.mx,si
+62,HEI HD,sg-hei-hd,no
+63,HTV,HTV.us,si
+64,History 2,History2LatinAmerica.us,si
+65,History Channel HD,History.mx,si
+66,Hogar TV,sg-hogar-tv,no
+67,Home & Health HD,sg-home-health-hd,no
+68,ID HD,InvestigationDiscoveryLatinAmerica.us,si
+69,LA FM RADIO,sg-la-fm-radio,no
+70,LA KALLE,sg-la-kalle,no
+71,LA MEGA,sg-la-mega,no
+72,Las Estrellas HD,LasEstrellas.mx,si
+73,Latina HD,Latina.pe,si
+74,Lifetime,LifetimeLatinAmerica.us,si
+75,MEMORIAS CLASICC,sg-memorias-clasicc,no
+76,MEMORIAS CORAZON,sg-memorias-corazon,no
+77,MEMORIAS FILM,sg-memorias-film,no
+78,MEMORIAS POP,sg-memorias-pop,no
+79,MEMORIAS SALSA,sg-memorias-salsa,no
+80,MEMORIAS SERIES,sg-memorias-series,no
+81,MEMORIAS TOONS,sg-memorias-toons,no
+82,MTV HD,MTVLatinAmerica.us,si
+83,NTN24,NTN24.co,si
+84,Nat Geo HD,NationalGeographicLatinAmerica.us,si
+85,Nick Jr,NickJrLatinAmerica.us,si
+86,Nickelodeon HD,NickelodeonLatinAmerica.us,si
+87,Nuestra Tele,NuestraTeleInternacional.co,si
+88,OROMAR TV,sg-oromar-tv,no
+89,Pasiones HD,PasionesLatinAmerica.us,si
+90,RCN HD,CanalRCN.co,si
+91,RCN HD 2,sg-rcn-hd-2,no
+92,RCN RADIO UNO,sg-rcn-radio-uno,no
+93,RTV,sg-rtv,no
+94,Rumba TV HD,RumbaTV.co,si
+95,Senal Colombia,SenalColombia.co,si
+96,Sony HD,SonyChannel.mx,si
+97,Sony Movies,SonyMoviesLatinAmerica.us,si
+98,Space HD,Space.ar,si
+99,Star Channel HD,StarChannel.co,si
+100,Studio Universal HD,StudioUniversalLatinAmerica.us,si
+101,TCM,TCMLatinAmerica.us,si
+102,TLC,TLCLatinAmerica.us,si
+103,TNT HD,TNTLatinAmerica.us,si
+104,TNT Novelas HD,sg-tnt-novelas-hd,no
+105,TNT Series HD,TNTSeriesLatinAmerica.us,si
+106,TRO,CanalTRO.co,si
+107,Tele Nostalgia HD,TeleNostalgia.co,si
+108,Teleantioquia,Teleantioquia.co,si
+109,Telecafe,Telecafe.co,si
+110,Telecaribe,Telecaribe.co,si
+111,Teleislas,Teleislas.co,si
+112,Telemundo,sg-telemundo,no
+113,Telepacifico,Telepacifico.co,si
+114,Telesur,Telesur.ve,si
+115,Tlnovelas,TlnovelasLatinAmerica.mx,si
+116,Tooncast,Tooncast.us,si
+117,Trece,Trece.co,si
+118,Tv Agro,TVAgro.co,si
+119,UNIVERSAL CHANNEL HD,UniversalTVLatinAmerica.us,si
+120,Warner TV HD,WarnerChannel.us,si
+121,Win,WinSports.co,si
+122,Zoom,Zoom.co,si
