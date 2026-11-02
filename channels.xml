@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="siba.com.co" site_id="380" lang="es" xmltv_id="AELatinAmerica.us">AE HD</channel>
+  <channel site="siba.com.co" site_id="532" lang="es" xmltv_id="AMCLatinAmerica.us">AMC HD</channel>
+  <channel site="siba.com.co" site_id="384" lang="es" xmltv_id="AXNLatinAmerica.us">AXN HD</channel>
+  <channel site="siba.com.co" site_id="382" lang="es" xmltv_id="AnimalPlanetLatinAmerica.us">Animal Planet</channel>
+  <channel site="mi.tv" site_id="hn#bethel" lang="es" xmltv_id="BethelTV.pe">BETHEL TV</channel>
+  <channel site="siba.com.co" site_id="394" lang="es" xmltv_id="CaracolTV.co">CARACOL TV HD</channel>
+  <channel site="siba.com.co" site_id="413" lang="es" xmltv_id="CNNenEspanol.us">CNN Espaæol</channel>
+  <channel site="siba.com.co" site_id="418" lang="es" xmltv_id="Cristovision.co">CRISTO VISION</channel>
+  <channel site="siba.com.co" site_id="398" lang="es" xmltv_id="CanalInstitucional.co">Canal Institucional</channel>
+  <channel site="siba.com.co" site_id="399" lang="es" xmltv_id="CanalRCN.co">Canal RCN</channel>
+  <channel site="siba.com.co" site_id="401" lang="es" xmltv_id="Canal1.co">Canal Uno</channel>
+  <channel site="siba.com.co" site_id="397" lang="es" xmltv_id="CanalCongreso.co">Canal del Congreso</channel>
+  <channel site="siba.com.co" site_id="393" lang="es" xmltv_id="CanalCapital.co">Capital</channel>
+  <channel site="siba.com.co" site_id="404" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us">Cartoon Network HD</channel>
+  <channel site="siba.com.co" site_id="407" lang="es" xmltv_id="Cinecanal.us">Cinecanal HD</channel>
+  <channel site="siba.com.co" site_id="839" lang="es" xmltv_id="CinemaxLatinAmerica.us">Cinemax</channel>
+  <channel site="mi.tv" site_id="pe#citytv" lang="es" xmltv_id="CitytvBogota.co">City TV</channel>
+  <channel site="siba.com.co" site_id="702" lang="es" xmltv_id="ComedyCentralLatinAmerica.us">Comedy Central HD</channel>
+  <channel site="mi.tv" site_id="ar#de-pelicula" lang="es" xmltv_id="DePeliculaLatinAmerica.mx">De Pelicula</channel>
+  <channel site="siba.com.co" site_id="423" lang="es" xmltv_id="DiscoveryChannelLatinAmerica.us">Discovery Channel  HD</channel>
+  <channel site="siba.com.co" site_id="427" lang="es" xmltv_id="DiscoveryKidsLatinAmerica.us">Discovery Kids HD</channel>
+  <channel site="mi.tv" site_id="ar#discovery-science" lang="es" xmltv_id="DiscoveryScienceLatinAmerica.us">Discovery Science</channel>
+  <channel site="siba.com.co" site_id="429" lang="es" xmltv_id="DiscoveryTurboLatinAmerica.us">Discovery Turbo</channel>
+  <channel site="siba.com.co" site_id="430" lang="es" xmltv_id="DisneyChannelLatinAmerica.ar">Disney Channel</channel>
+  <channel site="gatotv.com" site_id="disney_junior_norte" lang="es" xmltv_id="DisneyJrLatinAmerica.ar">Disney Jr.</channel>
+  <channel site="mi.tv" site_id="gt#distrito-comedia" lang="es" xmltv_id="DistritoComedia.mx">Distrito Comedia</channel>
+  <channel site="siba.com.co" site_id="484" lang="es" xmltv_id="ELatinAmerica.us">E! Entertainment TV</channel>
+  <channel site="mi.tv" site_id="cl#espn-2" lang="es" xmltv_id="ESPN2LatinAmerica.us">ESPN 2 HD</channel>
+  <channel site="mi.tv" site_id="cl#espn-3" lang="es" xmltv_id="ESPN3LatinAmerica.us">ESPN 3 HD</channel>
+  <channel site="mi.tv" site_id="cl#espn-4" lang="es" xmltv_id="ESPN4LatinAmerica.us">ESPN 4 HD</channel>
+  <channel site="gatotv.com" site_id="espn_chile" lang="es" xmltv_id="ESPNLatinAmerica.us">ESPN HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-premium" lang="es" xmltv_id="ESPNPremium.ar">ESPN Premium HD</channel>
+  <channel site="mi.tv" site_id="cl#etc-tv" lang="es" xmltv_id="ETCTV.cl">ETC</channel>
+  <channel site="siba.com.co" site_id="485" lang="es" xmltv_id="ElGourmet.ar">El Gourmet HD</channel>
+  <channel site="siba.com.co" site_id="493" lang="es" xmltv_id="Enlace.cr">Enlace</channel>
+  <channel site="gatotv.com" site_id="fx_mexico" lang="es" xmltv_id="FX.mx">FX HD</channel>
+  <channel site="siba.com.co" site_id="991" lang="es" xmltv_id="FoodNetworkLatinAmerica.us">Food Network</channel>
+  <channel site="mi.tv" site_id="ar#golden-edge" lang="es" xmltv_id="GoldenEdge.mx">Golden Edge</channel>
+  <channel site="siba.com.co" site_id="513" lang="es" xmltv_id="Golden.mx">Golden HD</channel>
+  <channel site="siba.com.co" site_id="523" lang="es" xmltv_id="HTV.us">HTV</channel>
+  <channel site="siba.com.co" site_id="894" lang="es" xmltv_id="History2LatinAmerica.us">History 2</channel>
+  <channel site="gatotv.com" site_id="history_mexico" lang="es" xmltv_id="History.mx">History Channel HD</channel>
+  <channel site="siba.com.co" site_id="528" lang="es" xmltv_id="InvestigationDiscoveryLatinAmerica.us">ID HD</channel>
+  <channel site="mi.tv" site_id="mx#canal-de-las-estrellas-xew" lang="es" xmltv_id="LasEstrellas.mx">Las Estrellas HD</channel>
+  <channel site="mi.tv" site_id="pe#frecuencia-latina" lang="es" xmltv_id="Latina.pe">Latina HD</channel>
+  <channel site="siba.com.co" site_id="893" lang="es" xmltv_id="LifetimeLatinAmerica.us">Lifetime</channel>
+  <channel site="siba.com.co" site_id="544" lang="es" xmltv_id="MTVLatinAmerica.us">MTV HD</channel>
+  <channel site="siba.com.co" site_id="554" lang="es" xmltv_id="NTN24.co">NTN24</channel>
+  <channel site="siba.com.co" site_id="550" lang="es" xmltv_id="NationalGeographicLatinAmerica.us">Nat Geo HD</channel>
+  <channel site="siba.com.co" site_id="551" lang="es" xmltv_id="NickJrLatinAmerica.us">Nick Jr</channel>
+  <channel site="siba.com.co" site_id="552" lang="es" xmltv_id="NickelodeonLatinAmerica.us">Nickelodeon HD</channel>
+  <channel site="directv.com.uy" site_id="775#NTEL" lang="es" xmltv_id="NuestraTeleInternacional.co">Nuestra Tele</channel>
+  <channel site="siba.com.co" site_id="555" lang="es" xmltv_id="PasionesLatinAmerica.us">Pasiones HD</channel>
+  <channel site="mi.tv" site_id="pe#rumba-tv" lang="es" xmltv_id="RumbaTV.co">Rumba TV HD</channel>
+  <channel site="siba.com.co" site_id="570" lang="es" xmltv_id="SenalColombia.co">Senal Colombia</channel>
+  <channel site="gatotv.com" site_id="sony_mexico" lang="es" xmltv_id="SonyChannel.mx">Sony HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us">Sony Movies</channel>
+  <channel site="siba.com.co" site_id="574" lang="es" xmltv_id="Space.ar">Space HD</channel>
+  <channel site="siba.com.co" site_id="505" lang="es" xmltv_id="StarChannel.co">Star Channel HD</channel>
+  <channel site="siba.com.co" site_id="577" lang="es" xmltv_id="StudioUniversalLatinAmerica.us">Studio Universal HD</channel>
+  <channel site="mi.tv" site_id="ar#tcm" lang="es" xmltv_id="TCMLatinAmerica.us">TCM</channel>
+  <channel site="siba.com.co" site_id="587" lang="es" xmltv_id="TLCLatinAmerica.us">TLC</channel>
+  <channel site="siba.com.co" site_id="589" lang="es" xmltv_id="TNTLatinAmerica.us">TNT HD</channel>
+  <channel site="siba.com.co" site_id="524" lang="es" xmltv_id="TNTSeriesLatinAmerica.us">TNT Series HD</channel>
+  <channel site="siba.com.co" site_id="591" lang="es" xmltv_id="CanalTRO.co">TRO</channel>
+  <channel site="mi.tv" site_id="co#tele-nostalgia" lang="es" xmltv_id="TeleNostalgia.co">Tele Nostalgia HD</channel>
+  <channel site="siba.com.co" site_id="580" lang="es" xmltv_id="Teleantioquia.co">Teleantioquia</channel>
+  <channel site="siba.com.co" site_id="581" lang="es" xmltv_id="Telecafe.co">Telecafe</channel>
+  <channel site="siba.com.co" site_id="582" lang="es" xmltv_id="Telecaribe.co">Telecaribe</channel>
+  <channel site="siba.com.co" site_id="922" lang="es" xmltv_id="Teleislas.co">Teleislas</channel>
+  <channel site="siba.com.co" site_id="585" lang="es" xmltv_id="Telepacifico.co">Telepacifico</channel>
+  <channel site="mi.tv" site_id="ar#telesur" lang="es" xmltv_id="Telesur.ve">Telesur</channel>
+  <channel site="siba.com.co" site_id="584" lang="es" xmltv_id="TlnovelasLatinAmerica.mx">Tlnovelas</channel>
+  <channel site="mi.tv" site_id="ar#tooncast" lang="es" xmltv_id="Tooncast.us">Tooncast</channel>
+  <channel site="siba.com.co" site_id="392" lang="es" xmltv_id="Trece.co">Trece</channel>
+  <channel site="siba.com.co" site_id="593" lang="es" xmltv_id="TVAgro.co">Tv Agro</channel>
+  <channel site="siba.com.co" site_id="598" lang="es" xmltv_id="UniversalTVLatinAmerica.us">UNIVERSAL CHANNEL HD</channel>
+  <channel site="siba.com.co" site_id="608" lang="es" xmltv_id="WarnerChannel.us">Warner TV HD</channel>
+  <channel site="siba.com.co" site_id="828" lang="es" xmltv_id="WinSports.co">Win</channel>
+  <channel site="siba.com.co" site_id="611" lang="es" xmltv_id="Zoom.co">Zoom</channel>
+</channels>
