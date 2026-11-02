@@ -1,0 +1,66 @@
+name: Actualizar guía de programación
+
+on:
+  schedule:
+    - cron: "0 8 * * *"        # 08:00 UTC = 03:00 en Colombia
+  workflow_dispatch:           # también se puede lanzar a mano
+
+concurrency:
+  group: guia
+  cancel-in-progress: true
+
+jobs:
+  descargar:
+    # Esta parte ejecuta código de iptv-org: por eso NO tiene permiso de escritura ni credenciales.
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: grabber
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Instalar descargador
+        run: cd grabber && npm ci --no-audit --no-fund
+      - name: Descargar guías (7 días)
+        # Si algún sitio falla, seguimos: build_epg.py pone marcadores a esos canales.
+        run: cd grabber && npm run grab --- --channels=../channels.xml --output=../guide-raw.xml --days=7 --maxConnections=5 --timeout=30000 || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: guia-cruda
+          path: guide-raw.xml
+          if-no-files-found: ignore
+          retention-days: 1
+
+  publicar:
+    needs: descargar
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: guia-cruda
+        continue-on-error: true
+      - name: Armar guía final (con marcadores donde falte)
+        run: python3 build_epg.py guide-raw.xml docs/guide.xml
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
